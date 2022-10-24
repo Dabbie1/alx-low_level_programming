@@ -33,4 +33,4 @@ int main(void)
 		printf("%c", pass_n);
 	}
 	return (0);
-}}
+}
