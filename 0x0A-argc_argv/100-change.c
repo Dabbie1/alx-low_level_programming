@@ -1,20 +1,3 @@
-
-Sarah-okolo
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x0A-argc_argv/100-change.c
-@Sarah-okolo
-Sarah-okolo made 2 files executable
- 1 contributor
-Executable File  44 lines (38 sloc)  636 Bytes
 #include <stdio.h>
 #include <stdlib.h>
 #include "main.h"
