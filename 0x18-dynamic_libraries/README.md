@@ -1,1 +1,0 @@
-offical readme file for dynamic libs
